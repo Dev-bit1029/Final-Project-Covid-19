@@ -174,11 +174,11 @@ Data Added Successfully!
 ```text
 MP.C19/
 │
-├── covid.py
+├── README.md
 │
 ├── covid.csv
 │
-└── README.md
+└── main.py
 ```
 
 ---

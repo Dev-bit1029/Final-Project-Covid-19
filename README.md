@@ -172,7 +172,7 @@ Data Added Successfully!
 ## 7. Project Structure
 
 ```text
-MP.C19/
+
 │
 ├── README.md
 │
